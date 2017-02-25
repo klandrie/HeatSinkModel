@@ -1,0 +1,1 @@
+For the theory and limitations of the heat sink model, refer to Heat Sink Model Validation.pdf included in the package.
